@@ -1,0 +1,5 @@
+*.pyc
+*.qdrep
+logs/*
+utility/logs/*
+__pycache__/

@@ -1,0 +1,1 @@
+docker run -it --rm --gpus all -v $PWD/../../:/uGrapher ugrapher:latest /bin/bash

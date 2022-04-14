@@ -1,0 +1,10 @@
+"Algorithm","num_schedule"
+"gcn_v1",2
+"gcn_v2",2
+"gat",7
+"gin",5
+"sage_mean_v1",2
+"sage_mean_v2",2
+"sage_pooling",2
+"sage_sum_v1",2
+"sage_sum_v2",2
